@@ -1,0 +1,97 @@
+
+#wrapper {
+	width: 778px;
+	margin: auto;
+	text-align: left;
+}
+#header p {
+	font-size:18px;
+	font-style:italic;
+	color:#FFFFFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+#header p.more {
+	padding-right: 22px;
+}
+#header {
+	height: 320px;
+	background: url(images/header.jpg) no-repeat;
+}
+#header div {
+	padding: 183px 213px 0px 82px;
+}
+#header p {
+	margin: 0px;
+	padding: 0px;
+}
+#header a {
+	color:#FFFFFF;
+}
+#nav {
+	width: 740px;
+	height:48px;
+	margin: 0px 0px 0px 20px;
+	display:inline;
+	float: center;
+	margin-left: 480px;
+}
+#nav a {
+	font-size:18px;
+	font-style:italic;
+	color:#260403;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin: 12px 0px 10px 0px;
+	padding: 0px 20px 0px 20px;
+	display:inline;
+	border-right-width: 2px;
+	border-right-style: inset;
+	border-right-color: #76644f;
+}
+#nav a:hover {
+	color:#862e06;
+	text-decoration:none;
+}
+.lastchild {
+	border-right: none 0px !important;
+}
+
+p {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+#body p.more {
+	padding-top: 6px;
+}
+#news-box p.more {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+p.more {
+	text-align: right;
+}
+h2{
+	font-family: comic sans ms;
+	color: slategrey;
+}
+#a {
+	font-family: serif;
+}
+.b {
+	font-family: monospace;
+}
+.b span {
+	font-family: inherit;
+	color: darkblue;
+	font-weight: bolder;
+}
+span {
+	color: black;
+	font-style: italic;
+}
+h1 {
+	text-align: left;
+}
+.lab {
+	border: 5px slategrey double;
+	border-radius: 5pt;
+}
